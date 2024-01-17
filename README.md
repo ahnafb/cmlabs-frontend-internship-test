@@ -1,5 +1,3 @@
-**tes**
-
 Halo!, perkenalkan nama saya Ahnaf Bhamakerti Arief ini adalah sebuah panduan untuk Running Project saya. 
 
 **Langkah - langkah untuk running project**
