@@ -3,10 +3,10 @@
 Halo!, perkenalkan nama saya Ahnaf Bhamakerti Arief ini adalah sebuah panduan untuk Running Project saya. 
 
 **Langkah - langkah untuk running project**
-1. Buka terminal VSCode atau terminal pilihan Anda dan arahkan ke path folder proyek Anda. Instal library yang diperlukan dengan menjalankan perintah berikut: pip install flask requests. 
+1. Buka terminal VSCode atau terminal pilihan Anda dan arahkan ke path folder proyek Anda. Install library yang diperlukan dengan menjalankan perintah berikut: pip install flask requests. 
 (Ini penting, terutama jika Anda baru pertama kali menggunakan Flask. Lakukan instalasi meskipun Anda telah melakukannya sebelumnya.)
 
-2. Setelah library terinstal, jalankan file app.py dengan perintah berikut: python app.py
+2. Setelah library terinstall, jalankan file app.py dengan perintah berikut: python app.py
 
 3. Jika eksekusinya berhasil, Anda akan melihat URL lokal yang disediakan. Klik pada URL atau gunakan CTRL + klik untuk langsung membuka website Anda.
 
