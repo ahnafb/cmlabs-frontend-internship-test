@@ -10,7 +10,7 @@ Halo!, perkenalkan nama saya Ahnaf Bhamakerti Arief ini adalah sebuah panduan un
 
 3. Jika eksekusinya berhasil, Anda akan melihat URL lokal yang disediakan. Klik pada URL atau gunakan CTRL + klik untuk langsung membuka website Anda.
 
-Dengan mengikuti langkah-langkah ini, website Anda akan berjalan dengan baik di mesin lokal Anda. Jika Anda mengalami masalah, pastikan instalasi library yang diperlukan dan eksekusi file app.py berjalan dengan benar.
+Dengan mengikuti langkah-langkah ini, website Anda akan berjalan dengan baik di mesin lokal Anda. Jika Anda mengalami masalah, pastikan instalasi library yang diperlukan dan eksekusi file app.py berjalan dengan benar. (Jika ada kendala mohon hubungi saya di sini https://wa.me/6281292495783)
 
 <!-- SIDENOTE -->
 **Fitur-fitur yang Digunakan**
